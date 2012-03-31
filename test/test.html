@@ -1,0 +1,61 @@
+<html>
+<head>
+	<script src="../gecko.js"></script>
+	<script src="jquery-latest.js"></script>
+	<script src="evidence.js"></script>
+	<style>
+		#h2{
+			height: 100px;
+			width: 200px;
+			position: absolute;
+		}
+		#dragMe{
+			position: relative;
+			background-color: blue;
+			width: 250px;
+			z-index: 2;
+		}
+		#withMe{
+			background-color: gray;
+		}
+	</style>
+</head>
+<body>
+<div id="h1" class="ho1">hola1
+	<div id="h11" class="ho1">hola11
+		<div id="h111" class="ho2">hola111</div>
+		<div id="h112" class="ho2">hola112</div>
+	</div>
+	<div id="h12" class="ho1">hola12
+		<div id="h121" class="ho3">hola121</div>
+		<div id="h122" class="ho3">hola122</div>
+	</div>
+	<div id="h13" class="ho1">hola13</div>
+</div>
+<div id="h2" class="ho1">hola2</div>
+<div id="h3" class="ho2">hola3</div>
+<div id="h4" class="ho3">hola4</div>
+<p id="h8" class="p1">  p 1</p>
+<p id="h7" class="p1">  p 2</p>
+<select id="h6">
+	<option value="a">a</option>
+	<option value="b">b</option>
+	<option value="c">c</option>
+</select>
+<span id="h5"> span 1</span>
+
+
+<div id="wrap" style="width: 80%;height:300px;margin:20px;border:2px solid black;">
+				<div id="dragMe">
+			<div id="withMe">
+				Drag Me! :D
+			</div>
+			<p>
+				This is some text to test that there are no text selection issues.
+			</p>
+		</div>
+		</div>
+</body>
+<script src="test.js"></script>
+<script src="../plugin.js"></script>
+</html>
