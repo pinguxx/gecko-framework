@@ -210,6 +210,8 @@ Si te sirve hazmelo saber para ponerlo en la lista de paginas que lo usan :)
   Copyright (C) 2012  Ivan Torres -MrPix, ipseitycloud
 
   See license
+  
+  <a href="http://www.ipseitycloud.com"><img src="http://ipseitycloud.com/cld/images/ipc_small.png" /></a>
 
 ## Test
 
@@ -432,6 +434,8 @@ Tested on chrome, opera, safari, ff
   Copyright (C) 2012  Ivan Torres -MrPix, ipseitycloud
 
   See license
+  
+  <a href="http://www.ipseitycloud.com"><img src="http://ipseitycloud.com/cld/images/ipc_small.png" /></a>
 
 
 ## Test
