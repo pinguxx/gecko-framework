@@ -207,8 +207,6 @@ Si te sirve hazmelo saber para ponerlo en la lista de paginas que lo usan :)
 
 ## License
 
-  Copyright (C) 2012  Ivan Torres -MrPix, ipseitycloud
-
   See license
   
   <a href="http://www.ipseitycloud.com"><img src="http://ipseitycloud.com/cld/images/ipc_small.png" /></a>
@@ -430,8 +428,6 @@ Tested on chrome, opera, safari, ff
 
 
 ## License
-
-  Copyright (C) 2012  Ivan Torres -MrPix, ipseitycloud
 
   See license
   
